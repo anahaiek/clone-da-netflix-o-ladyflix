@@ -5,7 +5,7 @@ Você pode ver filmes, séries e shows protagonizados por grandes mulheres!
 Nesse projeto eu reproduzi a página inicial da Netflix, mas de uma forma diferente e especial. 
 Você pode ver a página funcionando aqui: https://anahaiek.github.io/clone-da-netflix-o-ladyflix/
 
-### --------------------------------------- English--------------------------------------------------
+### ---------------------------------------------- English--------------------------------------------------
 ### Ladyflix 
 Ladyflix is a streaming service that lets you get in touch with your femininity.
 You can see movies, series and shows starring strong women!
